@@ -1,3 +1,3 @@
 # 👨‍💻 Most committed account
 
-![Lifetime Commits](https://img.shields.io/badge/Lifetime%20Commits-1234-blue?style=for-the-badge&logo=github)
+[![](https://github-readme-stats.vercel.app/api?username=committedtocommits)](https://github.com/committedtocommits/github-readme-stats)
